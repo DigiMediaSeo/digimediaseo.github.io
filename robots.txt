@@ -8,5 +8,3 @@ User-agent: Googlebot
 Allow: /
 
 Sitemap: https://digimediaseo.github.io/sitemap.xml
-
-Host: https://digimediaseo.github.io
